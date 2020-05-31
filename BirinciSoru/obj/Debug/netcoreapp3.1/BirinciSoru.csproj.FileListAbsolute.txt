@@ -1,0 +1,13 @@
+C:\Users\isadu\source\repos\OgulcanOdev\BirinciSoru\bin\Debug\netcoreapp3.1\BirinciSoru.exe
+C:\Users\isadu\source\repos\OgulcanOdev\BirinciSoru\bin\Debug\netcoreapp3.1\BirinciSoru.deps.json
+C:\Users\isadu\source\repos\OgulcanOdev\BirinciSoru\bin\Debug\netcoreapp3.1\BirinciSoru.runtimeconfig.json
+C:\Users\isadu\source\repos\OgulcanOdev\BirinciSoru\bin\Debug\netcoreapp3.1\BirinciSoru.runtimeconfig.dev.json
+C:\Users\isadu\source\repos\OgulcanOdev\BirinciSoru\bin\Debug\netcoreapp3.1\BirinciSoru.dll
+C:\Users\isadu\source\repos\OgulcanOdev\BirinciSoru\bin\Debug\netcoreapp3.1\BirinciSoru.pdb
+C:\Users\isadu\source\repos\OgulcanOdev\BirinciSoru\obj\Debug\netcoreapp3.1\BirinciSoru.csprojAssemblyReference.cache
+C:\Users\isadu\source\repos\OgulcanOdev\BirinciSoru\obj\Debug\netcoreapp3.1\BirinciSoru.csproj.CoreCompileInputs.cache
+C:\Users\isadu\source\repos\OgulcanOdev\BirinciSoru\obj\Debug\netcoreapp3.1\BirinciSoru.AssemblyInfoInputs.cache
+C:\Users\isadu\source\repos\OgulcanOdev\BirinciSoru\obj\Debug\netcoreapp3.1\BirinciSoru.AssemblyInfo.cs
+C:\Users\isadu\source\repos\OgulcanOdev\BirinciSoru\obj\Debug\netcoreapp3.1\BirinciSoru.dll
+C:\Users\isadu\source\repos\OgulcanOdev\BirinciSoru\obj\Debug\netcoreapp3.1\BirinciSoru.pdb
+C:\Users\isadu\source\repos\OgulcanOdev\BirinciSoru\obj\Debug\netcoreapp3.1\BirinciSoru.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\isadu\source\repos\OgulcanOdev\DorduncuSoru\bin\Debug\netcoreapp3.1\DorduncuSoru.exe
+C:\Users\isadu\source\repos\OgulcanOdev\DorduncuSoru\bin\Debug\netcoreapp3.1\DorduncuSoru.deps.json
+C:\Users\isadu\source\repos\OgulcanOdev\DorduncuSoru\bin\Debug\netcoreapp3.1\DorduncuSoru.runtimeconfig.json
+C:\Users\isadu\source\repos\OgulcanOdev\DorduncuSoru\bin\Debug\netcoreapp3.1\DorduncuSoru.runtimeconfig.dev.json
+C:\Users\isadu\source\repos\OgulcanOdev\DorduncuSoru\bin\Debug\netcoreapp3.1\DorduncuSoru.dll
+C:\Users\isadu\source\repos\OgulcanOdev\DorduncuSoru\bin\Debug\netcoreapp3.1\DorduncuSoru.pdb
+C:\Users\isadu\source\repos\OgulcanOdev\DorduncuSoru\obj\Debug\netcoreapp3.1\DorduncuSoru.csprojAssemblyReference.cache
+C:\Users\isadu\source\repos\OgulcanOdev\DorduncuSoru\obj\Debug\netcoreapp3.1\DorduncuSoru.csproj.CoreCompileInputs.cache
+C:\Users\isadu\source\repos\OgulcanOdev\DorduncuSoru\obj\Debug\netcoreapp3.1\DorduncuSoru.AssemblyInfoInputs.cache
+C:\Users\isadu\source\repos\OgulcanOdev\DorduncuSoru\obj\Debug\netcoreapp3.1\DorduncuSoru.AssemblyInfo.cs
+C:\Users\isadu\source\repos\OgulcanOdev\DorduncuSoru\obj\Debug\netcoreapp3.1\DorduncuSoru.dll
+C:\Users\isadu\source\repos\OgulcanOdev\DorduncuSoru\obj\Debug\netcoreapp3.1\DorduncuSoru.pdb
+C:\Users\isadu\source\repos\OgulcanOdev\DorduncuSoru\obj\Debug\netcoreapp3.1\DorduncuSoru.genruntimeconfig.cache

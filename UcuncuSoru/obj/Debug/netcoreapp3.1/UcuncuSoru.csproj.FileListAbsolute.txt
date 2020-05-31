@@ -1,0 +1,13 @@
+C:\Users\isadu\source\repos\OgulcanOdev\UcuncuSoru\bin\Debug\netcoreapp3.1\UcuncuSoru.exe
+C:\Users\isadu\source\repos\OgulcanOdev\UcuncuSoru\bin\Debug\netcoreapp3.1\UcuncuSoru.deps.json
+C:\Users\isadu\source\repos\OgulcanOdev\UcuncuSoru\bin\Debug\netcoreapp3.1\UcuncuSoru.runtimeconfig.json
+C:\Users\isadu\source\repos\OgulcanOdev\UcuncuSoru\bin\Debug\netcoreapp3.1\UcuncuSoru.runtimeconfig.dev.json
+C:\Users\isadu\source\repos\OgulcanOdev\UcuncuSoru\bin\Debug\netcoreapp3.1\UcuncuSoru.dll
+C:\Users\isadu\source\repos\OgulcanOdev\UcuncuSoru\bin\Debug\netcoreapp3.1\UcuncuSoru.pdb
+C:\Users\isadu\source\repos\OgulcanOdev\UcuncuSoru\obj\Debug\netcoreapp3.1\UcuncuSoru.csprojAssemblyReference.cache
+C:\Users\isadu\source\repos\OgulcanOdev\UcuncuSoru\obj\Debug\netcoreapp3.1\UcuncuSoru.csproj.CoreCompileInputs.cache
+C:\Users\isadu\source\repos\OgulcanOdev\UcuncuSoru\obj\Debug\netcoreapp3.1\UcuncuSoru.AssemblyInfoInputs.cache
+C:\Users\isadu\source\repos\OgulcanOdev\UcuncuSoru\obj\Debug\netcoreapp3.1\UcuncuSoru.AssemblyInfo.cs
+C:\Users\isadu\source\repos\OgulcanOdev\UcuncuSoru\obj\Debug\netcoreapp3.1\UcuncuSoru.dll
+C:\Users\isadu\source\repos\OgulcanOdev\UcuncuSoru\obj\Debug\netcoreapp3.1\UcuncuSoru.pdb
+C:\Users\isadu\source\repos\OgulcanOdev\UcuncuSoru\obj\Debug\netcoreapp3.1\UcuncuSoru.genruntimeconfig.cache
